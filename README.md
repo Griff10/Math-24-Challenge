@@ -1,1 +1,1 @@
-# Math_24
+# Math-24-Challenge
